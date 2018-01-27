@@ -21,7 +21,7 @@ body{
 }
 
 input[type="text"]{
-    width: 70%;
+    width: 68%;
     padding: 20px;
     background:#181c22;
     border: 0;
@@ -31,8 +31,9 @@ input[type="text"]{
 }
 
 button{
+    position: absolute;
     padding: 20px;
-    width: 30%;
+    width: 24%;
     float: left;
     background: #23282e;
     border: 0;
