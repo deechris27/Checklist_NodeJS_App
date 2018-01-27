@@ -1,0 +1,19 @@
+{
+  "name": "first_node_js_app",
+  "version": "1.0.0",
+  "description": "My First Node JS App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deechris27/First_NodeJS_App.git"
+  },
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deechris27/First_NodeJS_App/issues"
+  },
+  "homepage": "https://github.com/deechris27/First_NodeJS_App#readme"
+}
